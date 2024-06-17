@@ -1,0 +1,79 @@
+﻿@page "/courses"
+@using System.Net.Http.Json
+@using OnlineLearningPlatform.Client.Models
+@using System.Net.Http
+
+@inject HttpClient Http
+
+<h3>Courses</h3>
+
+@if (courses == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Title</th>
+                <th>Description</th>
+                <th>Duration</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var course in courses)
+            {
+                <tr>
+                    <td>@course.Title</td>
+                    <td>@course.Description</td>
+                    <td>@course.Duration</td>
+                    <td>
+                        <button @onclick="() => EditCourse(course.CourseId)">Edit</button>
+                        <button @onclick="() => DeleteCourse(course.CourseId)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button @onclick="AddCourse">Add Course</button>
+}
+
+@code {
+    private List<CourseModel> courses;
+
+    protected override async Task OnInitializedAsync()
+    {
+        await LoadCourses();
+    }
+
+    private async Task LoadCourses()
+    {
+        courses = await Http.GetFromJsonAsync<List<CourseModel>>("courses");
+    }
+
+    private void AddCourse()
+    {
+        // Navigate to Add Course Page
+    }
+
+    private void EditCourse(int id)
+    {
+        // Navigate to Edit Course Page
+    }
+
+    private async Task DeleteCourse(int id)
+    {
+        var response = await Http.DeleteAsync($"courses/{id}");
+        if (response.IsSuccessStatusCode)
+        {
+            // Reload courses after deletion
+            await LoadCourses();
+        }
+        else
+        {
+            // Handle error if deletion fails
+        }
+    }
+}

@@ -1,0 +1,649 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\pages\\enrollments.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\pages\\enrollments.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\models\\studentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\models\\enrollmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\models\\enrollmentmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\pages\\courses.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\pages\\courses.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\repositories\\implementations\\courserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\onlinelearningplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\onlinelearningplatform.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\pages\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\pages\\accounts\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\pages\\accounts\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\pages\\accounts\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\layout\\navmenu.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\pages\\accounts\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\pages\\accounts\\register.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\models\\coursemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\pages\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\pages\\accounts\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\client\\pages\\students.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B8D12FD3-2696-499C-B20D-DD309FC4256C}|Client\\Client.csproj|solutionrelative:client\\pages\\students.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\models\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\controllers\\enrollmentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\repositories\\implementations\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\repositories\\implementations\\enrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\services\\implementations\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\services\\implementations\\enrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\services\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\services\\ienrollmentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\services\\istudentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\repositories\\implementations\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\repositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\repositories\\ienrollmentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\repositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\services\\implementations\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\services\\implementations\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\services\\icourseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\repositories\\icourserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|d:\\my_projects\\online_learning_platform\\onlinelearningplatform\\onlinelearningplatform\\migrations\\20240615054120_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8E558-594A-4D41-B22D-48DD136B87A3}|OnlineLearningPlatform\\OnlineLearningPlatform.csproj|solutionrelative:onlinelearningplatform\\migrations\\20240615054120_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OnlineLearningPlatform.csproj",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\OnlineLearningPlatform.csproj",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\OnlineLearningPlatform.csproj",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\OnlineLearningPlatform.csproj",
+              "RelativeToolTip": "OnlineLearningPlatform\\OnlineLearningPlatform.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T09:17:43.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Client.csproj",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-17T08:59:40.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Program.cs",
+              "RelativeDocumentMoniker": "Client\\Program.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Program.cs",
+              "RelativeToolTip": "Client\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAcAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:20:05.216Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseRepository.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\Implementations\\CourseRepository.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Repositories\\Implementations\\CourseRepository.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\Implementations\\CourseRepository.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Repositories\\Implementations\\CourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:38:39.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Courses.razor",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Courses.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Courses.razor",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Courses.razor",
+              "RelativeToolTip": "Client\\Pages\\Courses.razor",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAmwCoAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T05:23:32.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnrollmentModel.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Models\\EnrollmentModel.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\EnrollmentModel.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Models\\EnrollmentModel.cs",
+              "RelativeToolTip": "Client\\Models\\EnrollmentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:27:55.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentModel.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Models\\StudentModel.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\StudentModel.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Models\\StudentModel.cs",
+              "RelativeToolTip": "Client\\Models\\StudentModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:26:56.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Enrollments.razor",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Enrollments.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Enrollments.razor",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Enrollments.razor",
+              "RelativeToolTip": "Client\\Pages\\Enrollments.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T05:28:18.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Accounts\\Login.cshtml",
+              "RelativeDocumentMoniker": "Client\\Pages\\Accounts\\Login.cshtml",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Accounts\\Login.cshtml",
+              "RelativeToolTip": "Client\\Pages\\Accounts\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T06:43:37.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Program.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Program.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Program.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:29:29.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Accounts\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Client\\Pages\\Accounts\\Login.cshtml.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Accounts\\Login.cshtml.cs",
+              "RelativeToolTip": "Client\\Pages\\Accounts\\Login.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:44:26.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NavMenu.razor",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Layout\\NavMenu.razor",
+              "RelativeDocumentMoniker": "Client\\Layout\\NavMenu.razor",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Layout\\NavMenu.razor",
+              "RelativeToolTip": "Client\\Layout\\NavMenu.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T05:34:22.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Register.cshtml.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Accounts\\Register.cshtml.cs",
+              "RelativeDocumentMoniker": "Client\\Pages\\Accounts\\Register.cshtml.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Accounts\\Register.cshtml.cs",
+              "RelativeToolTip": "Client\\Pages\\Accounts\\Register.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T06:45:29.119Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\index.html",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\wwwroot\\index.html",
+              "RelativeToolTip": "Client\\wwwroot\\index.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-06-17T08:22:03.598Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CourseModel.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Models\\CourseModel.cs",
+              "RelativeDocumentMoniker": "Client\\Models\\CourseModel.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Models\\CourseModel.cs",
+              "RelativeToolTip": "Client\\Models\\CourseModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:25:04.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Startup.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Startup.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Startup.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Startup.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAmwBEAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T07:45:07.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Accounts\\Register.cshtml",
+              "RelativeDocumentMoniker": "Client\\Pages\\Accounts\\Register.cshtml",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Accounts\\Register.cshtml",
+              "RelativeToolTip": "Client\\Pages\\Accounts\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-17T06:45:07.075Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Students.razor",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Students.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Students.razor",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\Client\\Pages\\Students.razor",
+              "RelativeToolTip": "Client\\Pages\\Students.razor",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-16T05:27:24.012Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:50:56.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "EnrollmentController.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Controllers\\EnrollmentController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Controllers\\EnrollmentController.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Controllers\\EnrollmentController.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Controllers\\EnrollmentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:09:48.807Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Controllers\\StudentController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T05:09:04.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "EnrollmentRepository.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\Implementations\\EnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Repositories\\Implementations\\EnrollmentRepository.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\Implementations\\EnrollmentRepository.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Repositories\\Implementations\\EnrollmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAB6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:39:15.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Models\\Course.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Models\\Course.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:20:58.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\appsettings.json",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\appsettings.json",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\appsettings.json",
+              "RelativeToolTip": "OnlineLearningPlatform\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-15T05:27:47.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Models\\Enrollment.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Models\\Enrollment.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Models\\Enrollment.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Models\\Enrollment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:21:41.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Models\\Student.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Models\\Student.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:21:14.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EnrollmentService.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\Implementations\\EnrollmentService.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Services\\Implementations\\EnrollmentService.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\Implementations\\EnrollmentService.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Services\\Implementations\\EnrollmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:43:53.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\Implementations\\StudentService.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Services\\Implementations\\StudentService.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\Implementations\\StudentService.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Services\\Implementations\\StudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:43:40.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IEnrollmentService.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\IEnrollmentService.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Services\\IEnrollmentService.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\IEnrollmentService.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Services\\IEnrollmentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:42:23.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "IStudentService.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\IStudentService.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Services\\IStudentService.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\IStudentService.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Services\\IStudentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:42:04.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Repositories\\Implementations\\StudentRepository.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\Implementations\\StudentRepository.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Repositories\\Implementations\\StudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:38:58.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "IEnrollmentRepository.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\IEnrollmentRepository.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Repositories\\IEnrollmentRepository.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\IEnrollmentRepository.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Repositories\\IEnrollmentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:36:36.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Repositories\\IStudentRepository.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\IStudentRepository.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Repositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:36:20.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\Implementations\\CourseService.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Services\\Implementations\\CourseService.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\Implementations\\CourseService.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Services\\Implementations\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:43:26.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ICourseService.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\ICourseService.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Services\\ICourseService.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Services\\ICourseService.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Services\\ICourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:41:38.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ICourseRepository.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\ICourseRepository.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Repositories\\ICourseRepository.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Repositories\\ICourseRepository.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Repositories\\ICourseRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T04:35:59.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240615054120_InitialCreate.cs",
+              "DocumentMoniker": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Migrations\\20240615054120_InitialCreate.cs",
+              "RelativeDocumentMoniker": "OnlineLearningPlatform\\Migrations\\20240615054120_InitialCreate.cs",
+              "ToolTip": "D:\\My_Projects\\Online_Learning_Platform\\OnlineLearningPlatform\\OnlineLearningPlatform\\Migrations\\20240615054120_InitialCreate.cs",
+              "RelativeToolTip": "OnlineLearningPlatform\\Migrations\\20240615054120_InitialCreate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T05:41:21.211Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+﻿@page "/students"
+@inject HttpClient Http
+@using System.Net.Http.Json
+@using OnlineLearningPlatform.Client.Models
+
+<h3>Students</h3>
+
+@if (students == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Date of Birth</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var student in students)
+            {
+                <tr>
+                    <td>@student.Name</td>
+                    <td>@student.Email</td>
+                    <td>@student.DateOfBirth.ToShortDateString()</td>
+                    <td>
+                        <button @onclick="() => EditStudent(student.StudentId)">Edit</button>
+                        <button @onclick="() => DeleteStudent(student.StudentId)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button @onclick="AddStudent">Add Student</button>
+}
+
+@code {
+    private List<StudentModel> students;
+
+    protected override async Task OnInitializedAsync()
+    {
+        students = await Http.GetFromJsonAsync<List<StudentModel>>("students");
+    }
+
+    private void AddStudent()
+    {
+        // Navigate to Add Student Page
+    }
+
+    private void EditStudent(int id)
+    {
+        // Navigate to Edit Student Page
+    }
+
+    private async Task DeleteStudent(int id)
+    {
+        await Http.DeleteAsync($"students/{id}");
+        students = await Http.GetFromJsonAsync<List<StudentModel>>("students");
+    }
+}

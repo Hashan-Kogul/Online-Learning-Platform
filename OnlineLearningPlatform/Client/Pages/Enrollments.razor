@@ -1,0 +1,64 @@
+﻿@page "/enrollments"
+@inject HttpClient Http
+@using System.Net.Http.Json
+@using OnlineLearningPlatform.Client.Models
+
+<h3>Enrollments</h3>
+
+@if (enrollments == null)
+{
+    <p><em>Loading...</em></p>
+}
+else
+{
+    <table class="table">
+        <thead>
+            <tr>
+                <th>Student Name</th>
+                <th>Course Title</th>
+                <th>Enrollment Date</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var enrollment in enrollments)
+            {
+                <tr>
+                    <td>@enrollment.Student.Name</td>
+                    <td>@enrollment.Course.Title</td>
+                    <td>@enrollment.EnrollmentDate.ToShortDateString()</td>
+                    <td>
+                        <button @onclick="() => EditEnrollment(enrollment.EnrollmentId)">Edit</button>
+                        <button @onclick="() => DeleteEnrollment(enrollment.EnrollmentId)">Delete</button>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+    <button @onclick="AddEnrollment">Add Enrollment</button>
+}
+
+@code {
+    private List<EnrollmentModel> enrollments;
+
+    protected override async Task OnInitializedAsync()
+    {
+        enrollments = await Http.GetFromJsonAsync<List<EnrollmentModel>>("enrollments");
+    }
+
+    private void AddEnrollment()
+    {
+        // Navigate to Add Enrollment Page
+    }
+
+    private void EditEnrollment(int id)
+    {
+        // Navigate to Edit Enrollment Page
+    }
+
+    private async Task DeleteEnrollment(int id)
+    {
+        await Http.DeleteAsync($"enrollments/{id}");
+        enrollments = await Http.GetFromJsonAsync<List<EnrollmentModel>>("enrollments");
+    }
+}
